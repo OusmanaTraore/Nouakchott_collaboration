@@ -1,6 +1,6 @@
 # Nouakchott_collaboration
 
-# Les technologies/outils sur lesquels je travaille sont:
+## Les technologies/outils sur lesquels je travaille sont:
 
  ## HTML,CSS       (Rapports/Support/Modèles/CV/PageWeb)
  ## Git,GitHub     (Gestion de version des codes, comptes github)
