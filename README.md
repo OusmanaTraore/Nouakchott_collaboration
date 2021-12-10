@@ -1,12 +1,11 @@
 # Nouakchott_collaboration
 
 ## Les technologies/outils sur lesquels je travaille sont:
-
- ## HTML,CSS       (Rapports/Support/Modèles/CV/PageWeb)
- ## Git,GitHub     (Gestion de version des codes, comptes github)
- ## VsCode          (outils pour la programmation)
- ## TEAMS           (Pour les séances en directs / dans la possibilité d'un accès à internet)
- ## HyperV, VmWare  (pour la virtualisation des machines)
+ ### HTML,CSS       (Rapports/Support/Modèles/CV/PageWeb)
+ ### Git,GitHub     (Gestion de version des codes, comptes github)
+ ### VsCode          (outils pour la programmation)
+ ### TEAMS           (Pour les séances en directs / dans la possibilité d'un accès à internet)
+ ### HyperV, VmWare  (pour la virtualisation des machines)
       ### Python   (language de programmation)
       ### Docker   (containeurisation des application)
       ### Ansible  (gestion des déploiements)
