@@ -1,0 +1,7 @@
+{
+  "name": "NouakImmo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
