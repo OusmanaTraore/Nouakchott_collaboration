@@ -1,0 +1,7 @@
+{
+  "name": "goshop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
